@@ -6,7 +6,7 @@ function Header( ){
         <div>
             
             
-            <h3>heated part</h3>
+            <h3>top header</h3>
             <h1>
             
             

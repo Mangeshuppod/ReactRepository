@@ -25,11 +25,15 @@ function App() {
       <button className='micon' onClick={()=>setMenustatus(!menuStatus)}>&#9776;</button>
       <div className={`menu ${menuStatus ? 'activemenu' :''}`}>
         <ul>
-          <li>home</li>
-          <li>about</li>
-          <li>course</li>
-          <li>gallery</li>
-          <li>contact us</li>
+          <h1>Categories</h1>
+
+          <li>boys</li>
+          <li>girls</li>
+          <li>pants</li>
+          <li>shirts</li>
+          <li>frocks</li>
+          <li>all</li>
+          
       
 
         </ul>
